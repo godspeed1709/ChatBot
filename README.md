@@ -1,3 +1,4 @@
 # ChatBot
 Repository containing our ChatBot resources
-Keval patel 
+Keval patel
+Shubham Patel
