@@ -4,7 +4,7 @@ import customtkinter as ctk
 import os
 import openai
 
-API_KEY = "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"
+API_KEY = "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"
 os.environ['OPENAI_Key'] = API_KEY
 openai.api_key = os.environ['OPENAI_Key']
 
