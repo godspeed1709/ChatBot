@@ -13,7 +13,7 @@
     from datetime import datetime
     import pytz
 
-    API_KEY = "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"
+    API_KEY = "****"
     os.environ['OPENAI_Key'] = API_KEY
     openai.api_key = os.environ['OPENAI_Key']
 
