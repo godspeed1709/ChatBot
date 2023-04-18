@@ -8,7 +8,7 @@ from datetime import datetime
 import pytz
 
 # Connect to openAI
-API_KEY = "***"
+API_KEY = "*"
 os.environ['OPENAI_Key'] = API_KEY
 openai.api_key = os.environ['OPENAI_Key']
 
